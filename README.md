@@ -6,21 +6,21 @@ A cross-platform mobile application built with React Native designed to help use
 
 ## Features
 
--- Custom Vocabulary Lists: Create, edit, and delete your own sets of words.
+Custom Vocabulary Lists: Create, edit, and delete your own sets of words.
 
--- Practice Mode: Test your knowledge with a built in quiz system.
+Practice Mode: Test your knowledge with a built in quiz system.
 
--- Progress Tracking: Keep track of which words you have mastered.
+Progress Tracking: Keep track of which words you have mastered.
 
--- Cross Platform: Runs seamlessly on both iOS and Android.
+Cross Platform: Runs seamlessly on both iOS and Android.
 
--- Exam mode: The teacher can make an exam to test the students knowledge!
+Exam mode: The teacher can make an exam to test the students knowledge!
 
--- Sign Up: Users can create an account using email/password.
+Sign Up: Users can create an account using email/password.
 
--- Login: Secure access to personal vocabulary lists.
+Login: Secure access to personal vocabulary lists.
 
--- Password Recovery: "Forget Password" functionality via automated email reset links.
+Password Recovery: "Forget Password" functionality via automated email reset links.
 
 ## Implementation Guide
 
