@@ -1,4 +1,4 @@
-# Video https://www.youtube.com/watch?v=bxOTO9mVKcs
+# Video www.youtube.com/watch?v=FBB8PRwYTaA&feature=youtu.be
 
 # Abdullah Hamdan React-native-Glosor
 
